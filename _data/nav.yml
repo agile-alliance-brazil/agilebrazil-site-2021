@@ -4,7 +4,7 @@
 
 - name: Sobre
   url: about
-  production: false 
+  production: true 
 
 - name: Inscrições
   url: inscricoes
