@@ -2,6 +2,10 @@
   url: ./
   production: true 
 
+- name: Sobre
+  url: about
+  production: true 
+
 - name: Inscrições
   url: inscricoes
   production: true 
